@@ -1,0 +1,16 @@
+#ifndef _H_GUI_
+#define _H_GUI_
+
+////////////////////////////////////////////////////////////////////////////////
+// FILE: gui
+// DESC: Includes all gui header files.
+////////////////////////////////////////////////////////////////////////////////
+
+#define GUI_VERSION 0x0002
+
+#include "gui/gui_int.h"
+#include "gui/gui_con.h"
+#include "gui/gui_wnd.h"
+#include "gui/logger.h"
+
+#endif // _H_GUI_

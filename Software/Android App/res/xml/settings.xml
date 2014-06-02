@@ -1,0 +1,31 @@
+    <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+        <PreferenceCategory android:title="Communication Settings">
+            <EditTextPreference 
+                android:title="Adress" 
+                android:defaultValue="192.168.1.10" 
+                android:summary="Raspberry Ip Adress" 
+                android:key="raspiAdress"
+                android:inputType="text"
+                android:digits="1234567890." 
+                android:maxLength="15"/>
+            
+            
+            
+            <EditTextPreference 
+                android:title="Port" 
+                android:defaultValue="8000" 
+                android:summary="UDP Port Number" 
+                android:key="raspiPort"
+                android:inputType="number"
+                android:digits="1234567890"
+                android:maxLength="4"/>
+            
+
+            
+        </PreferenceCategory>
+        <PreferenceCategory android:title="Other Preferences">
+            
+
+        
+        </PreferenceCategory>
+    </PreferenceScreen>

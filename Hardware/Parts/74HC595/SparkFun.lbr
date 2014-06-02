@@ -1,0 +1,560 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# object: http://ogp.me/ns/object# article: http://ogp.me/ns/article# profile: http://ogp.me/ns/profile#">
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Old-SparkFun-Eagle-Library/SparkFun.lbr at master · sparkfun/Old-SparkFun-Eagle-Library · GitHub</title>
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub" />
+    <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub" />
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-144.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144.png" />
+    <meta property="fb:app_id" content="1401488693436528"/>
+
+      <meta content="@github" name="twitter:site" /><meta content="summary" name="twitter:card" /><meta content="sparkfun/Old-SparkFun-Eagle-Library" name="twitter:title" /><meta content="Old-SparkFun-Eagle-Library - SparkFun&amp;#39;s Public Eagle PCB Footprints for pre-Eagle 6.0" name="twitter:description" /><meta content="https://0.gravatar.com/avatar/12280b1298f3c6d892fad7dc365af235?d=https%3A%2F%2Fidenticons.github.com%2Fe81aa9f3edf39d8a37c668f5fe75ac26.png&amp;r=x&amp;s=400" name="twitter:image:src" />
+<meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="https://0.gravatar.com/avatar/12280b1298f3c6d892fad7dc365af235?d=https%3A%2F%2Fidenticons.github.com%2Fe81aa9f3edf39d8a37c668f5fe75ac26.png&amp;r=x&amp;s=400" property="og:image" /><meta content="sparkfun/Old-SparkFun-Eagle-Library" property="og:title" /><meta content="https://github.com/sparkfun/Old-SparkFun-Eagle-Library" property="og:url" /><meta content="Old-SparkFun-Eagle-Library - SparkFun&#39;s Public Eagle PCB Footprints for pre-Eagle 6.0" property="og:description" />
+
+    <meta name="hostname" content="github-fe119-cp1-prd.iad.github.net">
+    <meta name="ruby" content="ruby 2.1.0p0-github-tcmalloc (87c9373a41) [x86_64-linux]">
+    <link rel="assets" href="https://github.global.ssl.fastly.net/">
+    <link rel="conduit-xhr" href="https://ghconduit.com:25035/">
+    <link rel="xhr-socket" href="/_sockets" />
+
+
+    <meta name="msapplication-TileImage" content="/windows-tile.png" />
+    <meta name="msapplication-TileColor" content="#ffffff" />
+    <meta name="selected-link" value="repo_source" data-pjax-transient />
+    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="8D1F08CD:0E74:1065DD8:5304D4D6" name="octolytics-dimension-request_id" />
+    
+
+    
+    
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+
+    <meta content="authenticity_token" name="csrf-param" />
+<meta content="+jTwCJa9ZyA0pGpCDgNYvc7XC9PciIpoRwrqj84hgpY=" name="csrf-token" />
+
+    <link href="https://github.global.ssl.fastly.net/assets/github-92740315f896acc5f11ea2462583cb3fa98aae00.css" media="all" rel="stylesheet" type="text/css" />
+    <link href="https://github.global.ssl.fastly.net/assets/github2-16d3d443ca1a5a8686a816f0cc3f7215f9ee2f93.css" media="all" rel="stylesheet" type="text/css" />
+    
+    
+
+
+      <script src="https://github.global.ssl.fastly.net/assets/frameworks-693e11922dcacc3a7408a911fe1647da4febd3bd.js" type="text/javascript"></script>
+      <script async="async" src="https://github.global.ssl.fastly.net/assets/github-9269ec1e0b3462d4c8a129fcc86886b0ce163d25.js" type="text/javascript"></script>
+      
+      <meta http-equiv="x-pjax-version" content="21f76df7b5aa53b3583dd5147714f1a9">
+
+        <link data-pjax-transient rel='permalink' href='/sparkfun/Old-SparkFun-Eagle-Library/blob/683dd3d58611c2055bd3bb65adb0b8d1940b2aa2/SparkFun.lbr'>
+
+  <meta name="description" content="Old-SparkFun-Eagle-Library - SparkFun&#39;s Public Eagle PCB Footprints for pre-Eagle 6.0" />
+
+  <meta content="142880" name="octolytics-dimension-user_id" /><meta content="sparkfun" name="octolytics-dimension-user_login" /><meta content="851700" name="octolytics-dimension-repository_id" /><meta content="sparkfun/Old-SparkFun-Eagle-Library" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="851700" name="octolytics-dimension-repository_network_root_id" /><meta content="sparkfun/Old-SparkFun-Eagle-Library" name="octolytics-dimension-repository_network_root_nwo" />
+  <link href="https://github.com/sparkfun/Old-SparkFun-Eagle-Library/commits/master.atom" rel="alternate" title="Recent Commits to Old-SparkFun-Eagle-Library:master" type="application/atom+xml" />
+
+  </head>
+
+
+  <body class="logged_out  env-production windows vis-public page-blob tipsy-tooltips">
+    <div class="wrapper">
+      
+      
+      
+      
+
+
+      
+      <div class="header header-logged-out">
+  <div class="container clearfix">
+
+    <a class="header-logo-wordmark" href="https://github.com/">
+      <span class="mega-octicon octicon-logo-github"></span>
+    </a>
+
+    <div class="header-actions">
+        <a class="button primary" href="/join">Sign up</a>
+      <a class="button signin" href="/login?return_to=%2Fsparkfun%2FOld-SparkFun-Eagle-Library%2Fblob%2Fmaster%2FSparkFun.lbr">Sign in</a>
+    </div>
+
+    <div class="command-bar js-command-bar  in-repository">
+
+      <ul class="top-nav">
+          <li class="explore"><a href="/explore">Explore</a></li>
+        <li class="features"><a href="/features">Features</a></li>
+          <li class="enterprise"><a href="https://enterprise.github.com/">Enterprise</a></li>
+          <li class="blog"><a href="/blog">Blog</a></li>
+      </ul>
+        <form accept-charset="UTF-8" action="/search" class="command-bar-form" id="top_search_form" method="get">
+
+<input type="text" data-hotkey="/ s" name="q" id="js-command-bar-field" placeholder="Search or type a command" tabindex="1" autocapitalize="off"
+    
+    
+      data-repo="sparkfun/Old-SparkFun-Eagle-Library"
+      data-branch="master"
+      data-sha="0e7265ae0885422e099a4a8c6a88b891a59bba9f"
+  >
+
+    <input type="hidden" name="nwo" value="sparkfun/Old-SparkFun-Eagle-Library" />
+
+    <div class="select-menu js-menu-container js-select-menu search-context-select-menu">
+      <span class="minibutton select-menu-button js-menu-target">
+        <span class="js-select-button">This repository</span>
+      </span>
+
+      <div class="select-menu-modal-holder js-menu-content js-navigation-container">
+        <div class="select-menu-modal">
+
+          <div class="select-menu-item js-navigation-item js-this-repository-navigation-item selected">
+            <span class="select-menu-item-icon octicon octicon-check"></span>
+            <input type="radio" class="js-search-this-repository" name="search_target" value="repository" checked="checked" />
+            <div class="select-menu-item-text js-select-button-text">This repository</div>
+          </div> <!-- /.select-menu-item -->
+
+          <div class="select-menu-item js-navigation-item js-all-repositories-navigation-item">
+            <span class="select-menu-item-icon octicon octicon-check"></span>
+            <input type="radio" name="search_target" value="global" />
+            <div class="select-menu-item-text js-select-button-text">All repositories</div>
+          </div> <!-- /.select-menu-item -->
+
+        </div>
+      </div>
+    </div>
+
+  <span class="octicon help tooltipped downwards" aria-label="Show command bar help">
+    <span class="octicon octicon-question"></span>
+  </span>
+
+
+  <input type="hidden" name="ref" value="cmdform">
+
+</form>
+    </div>
+
+  </div>
+</div>
+
+
+
+
+          <div class="site" itemscope itemtype="http://schema.org/WebPage">
+    
+    <div class="pagehead repohead instapaper_ignore readability-menu">
+      <div class="container">
+        
+
+<ul class="pagehead-actions">
+
+
+  <li>
+    <a href="/login?return_to=%2Fsparkfun%2FOld-SparkFun-Eagle-Library"
+    class="minibutton with-count js-toggler-target star-button tooltipped upwards"
+    aria-label="You must be signed in to use this feature" rel="nofollow">
+    <span class="octicon octicon-star"></span>Star
+  </a>
+
+    <a class="social-count js-social-count" href="/sparkfun/Old-SparkFun-Eagle-Library/stargazers">
+      202
+    </a>
+
+  </li>
+
+    <li>
+      <a href="/login?return_to=%2Fsparkfun%2FOld-SparkFun-Eagle-Library"
+        class="minibutton with-count js-toggler-target fork-button tooltipped upwards"
+        aria-label="You must be signed in to fork a repository" rel="nofollow">
+        <span class="octicon octicon-git-branch"></span>Fork
+      </a>
+      <a href="/sparkfun/Old-SparkFun-Eagle-Library/network" class="social-count">
+        28
+      </a>
+    </li>
+</ul>
+
+        <h1 itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="entry-title public">
+          <span class="repo-label"><span>public</span></span>
+          <span class="mega-octicon octicon-repo"></span>
+          <span class="author">
+            <a href="/sparkfun" class="url fn" itemprop="url" rel="author"><span itemprop="title">sparkfun</span></a>
+          </span>
+          <span class="repohead-name-divider">/</span>
+          <strong><a href="/sparkfun/Old-SparkFun-Eagle-Library" class="js-current-repository js-repo-home-link">Old-SparkFun-Eagle-Library</a></strong>
+
+          <span class="page-context-loader">
+            <img alt="Octocat-spinner-32" height="16" src="https://github.global.ssl.fastly.net/images/spinners/octocat-spinner-32.gif" width="16" />
+          </span>
+
+        </h1>
+      </div><!-- /.container -->
+    </div><!-- /.repohead -->
+
+    <div class="container">
+      
+
+      <div class="repository-with-sidebar repo-container new-discussion-timeline js-new-discussion-timeline  ">
+        <div class="repository-sidebar clearfix">
+            
+
+<div class="sunken-menu vertical-right repo-nav js-repo-nav js-repository-container-pjax js-octicon-loaders">
+  <div class="sunken-menu-contents">
+    <ul class="sunken-menu-group">
+      <li class="tooltipped leftwards" aria-label="Code">
+        <a href="/sparkfun/Old-SparkFun-Eagle-Library" aria-label="Code" class="selected js-selected-navigation-item sunken-menu-item" data-gotokey="c" data-pjax="true" data-selected-links="repo_source repo_downloads repo_commits repo_tags repo_branches /sparkfun/Old-SparkFun-Eagle-Library">
+          <span class="octicon octicon-code"></span> <span class="full-word">Code</span>
+          <img alt="Octocat-spinner-32" class="mini-loader" height="16" src="https://github.global.ssl.fastly.net/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>      </li>
+
+        <li class="tooltipped leftwards" aria-label="Issues">
+          <a href="/sparkfun/Old-SparkFun-Eagle-Library/issues" aria-label="Issues" class="js-selected-navigation-item sunken-menu-item js-disable-pjax" data-gotokey="i" data-selected-links="repo_issues /sparkfun/Old-SparkFun-Eagle-Library/issues">
+            <span class="octicon octicon-issue-opened"></span> <span class="full-word">Issues</span>
+            <span class='counter'>0</span>
+            <img alt="Octocat-spinner-32" class="mini-loader" height="16" src="https://github.global.ssl.fastly.net/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>        </li>
+
+      <li class="tooltipped leftwards" aria-label="Pull Requests">
+        <a href="/sparkfun/Old-SparkFun-Eagle-Library/pulls" aria-label="Pull Requests" class="js-selected-navigation-item sunken-menu-item js-disable-pjax" data-gotokey="p" data-selected-links="repo_pulls /sparkfun/Old-SparkFun-Eagle-Library/pulls">
+            <span class="octicon octicon-git-pull-request"></span> <span class="full-word">Pull Requests</span>
+            <span class='counter'>0</span>
+            <img alt="Octocat-spinner-32" class="mini-loader" height="16" src="https://github.global.ssl.fastly.net/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>      </li>
+
+
+    </ul>
+    <div class="sunken-menu-separator"></div>
+    <ul class="sunken-menu-group">
+
+      <li class="tooltipped leftwards" aria-label="Pulse">
+        <a href="/sparkfun/Old-SparkFun-Eagle-Library/pulse" aria-label="Pulse" class="js-selected-navigation-item sunken-menu-item" data-pjax="true" data-selected-links="pulse /sparkfun/Old-SparkFun-Eagle-Library/pulse">
+          <span class="octicon octicon-pulse"></span> <span class="full-word">Pulse</span>
+          <img alt="Octocat-spinner-32" class="mini-loader" height="16" src="https://github.global.ssl.fastly.net/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>      </li>
+
+      <li class="tooltipped leftwards" aria-label="Graphs">
+        <a href="/sparkfun/Old-SparkFun-Eagle-Library/graphs" aria-label="Graphs" class="js-selected-navigation-item sunken-menu-item" data-pjax="true" data-selected-links="repo_graphs repo_contributors /sparkfun/Old-SparkFun-Eagle-Library/graphs">
+          <span class="octicon octicon-graph"></span> <span class="full-word">Graphs</span>
+          <img alt="Octocat-spinner-32" class="mini-loader" height="16" src="https://github.global.ssl.fastly.net/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>      </li>
+
+      <li class="tooltipped leftwards" aria-label="Network">
+        <a href="/sparkfun/Old-SparkFun-Eagle-Library/network" aria-label="Network" class="js-selected-navigation-item sunken-menu-item js-disable-pjax" data-selected-links="repo_network /sparkfun/Old-SparkFun-Eagle-Library/network">
+          <span class="octicon octicon-git-branch"></span> <span class="full-word">Network</span>
+          <img alt="Octocat-spinner-32" class="mini-loader" height="16" src="https://github.global.ssl.fastly.net/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>      </li>
+    </ul>
+
+
+  </div>
+</div>
+
+              <div class="only-with-full-nav">
+                
+
+  
+
+<div class="clone-url open"
+  data-protocol-type="http"
+  data-url="/users/set_protocol?protocol_selector=http&amp;protocol_type=clone">
+  <h3><strong>HTTPS</strong> clone URL</h3>
+  <div class="clone-url-box">
+    <input type="text" class="clone js-url-field"
+           value="https://github.com/sparkfun/Old-SparkFun-Eagle-Library.git" readonly="readonly">
+
+    <span class="js-zeroclipboard url-box-clippy minibutton zeroclipboard-button" data-clipboard-text="https://github.com/sparkfun/Old-SparkFun-Eagle-Library.git" data-copied-hint="copied!" title="copy to clipboard"><span class="octicon octicon-clippy"></span></span>
+  </div>
+</div>
+
+  
+
+<div class="clone-url "
+  data-protocol-type="subversion"
+  data-url="/users/set_protocol?protocol_selector=subversion&amp;protocol_type=clone">
+  <h3><strong>Subversion</strong> checkout URL</h3>
+  <div class="clone-url-box">
+    <input type="text" class="clone js-url-field"
+           value="https://github.com/sparkfun/Old-SparkFun-Eagle-Library" readonly="readonly">
+
+    <span class="js-zeroclipboard url-box-clippy minibutton zeroclipboard-button" data-clipboard-text="https://github.com/sparkfun/Old-SparkFun-Eagle-Library" data-copied-hint="copied!" title="copy to clipboard"><span class="octicon octicon-clippy"></span></span>
+  </div>
+</div>
+
+
+<p class="clone-options">You can clone with
+      <a href="#" class="js-clone-selector" data-protocol="http">HTTPS</a>,
+      or <a href="#" class="js-clone-selector" data-protocol="subversion">Subversion</a>.
+  <span class="octicon help tooltipped upwards" aria-label="Get help on which URL is right for you.">
+    <a href="https://help.github.com/articles/which-remote-url-should-i-use">
+    <span class="octicon octicon-question"></span>
+    </a>
+  </span>
+</p>
+
+
+  <a href="http://windows.github.com" class="minibutton sidebar-button">
+    <span class="octicon octicon-device-desktop"></span>
+    Clone in Desktop
+  </a>
+
+                <a href="/sparkfun/Old-SparkFun-Eagle-Library/archive/master.zip"
+                   class="minibutton sidebar-button"
+                   title="Download this repository as a zip file"
+                   rel="nofollow">
+                  <span class="octicon octicon-cloud-download"></span>
+                  Download ZIP
+                </a>
+              </div>
+        </div><!-- /.repository-sidebar -->
+
+        <div id="js-repo-pjax-container" class="repository-content context-loader-container" data-pjax-container>
+          
+
+
+<!-- blob contrib key: blob_contributors:v21:c555c5f68fe38a94beaa31e186473f13 -->
+
+<p title="This is a placeholder element" class="js-history-link-replace hidden"></p>
+
+<a href="/sparkfun/Old-SparkFun-Eagle-Library/find/master" data-pjax data-hotkey="t" class="js-show-file-finder" style="display:none">Show File Finder</a>
+
+<div class="file-navigation">
+  
+
+<div class="select-menu js-menu-container js-select-menu" >
+  <span class="minibutton select-menu-button js-menu-target" data-hotkey="w"
+    data-master-branch="master"
+    data-ref="master"
+    role="button" aria-label="Switch branches or tags" tabindex="0">
+    <span class="octicon octicon-git-branch"></span>
+    <i>branch:</i>
+    <span class="js-select-button">master</span>
+  </span>
+
+  <div class="select-menu-modal-holder js-menu-content js-navigation-container" data-pjax>
+
+    <div class="select-menu-modal">
+      <div class="select-menu-header">
+        <span class="select-menu-title">Switch branches/tags</span>
+        <span class="octicon octicon-remove-close js-menu-close"></span>
+      </div> <!-- /.select-menu-header -->
+
+      <div class="select-menu-filters">
+        <div class="select-menu-text-filter">
+          <input type="text" aria-label="Filter branches/tags" id="context-commitish-filter-field" class="js-filterable-field js-navigation-enable" placeholder="Filter branches/tags">
+        </div>
+        <div class="select-menu-tabs">
+          <ul>
+            <li class="select-menu-tab">
+              <a href="#" data-tab-filter="branches" class="js-select-menu-tab">Branches</a>
+            </li>
+            <li class="select-menu-tab">
+              <a href="#" data-tab-filter="tags" class="js-select-menu-tab">Tags</a>
+            </li>
+          </ul>
+        </div><!-- /.select-menu-tabs -->
+      </div><!-- /.select-menu-filters -->
+
+      <div class="select-menu-list select-menu-tab-bucket js-select-menu-tab-bucket" data-tab-filter="branches">
+
+        <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
+
+
+            <div class="select-menu-item js-navigation-item selected">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/sparkfun/Old-SparkFun-Eagle-Library/blob/master/SparkFun.lbr"
+                 data-name="master"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target"
+                 title="master">master</a>
+            </div> <!-- /.select-menu-item -->
+        </div>
+
+          <div class="select-menu-no-results">Nothing to show</div>
+      </div> <!-- /.select-menu-list -->
+
+      <div class="select-menu-list select-menu-tab-bucket js-select-menu-tab-bucket" data-tab-filter="tags">
+        <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
+
+
+        </div>
+
+        <div class="select-menu-no-results">Nothing to show</div>
+      </div> <!-- /.select-menu-list -->
+
+    </div> <!-- /.select-menu-modal -->
+  </div> <!-- /.select-menu-modal-holder -->
+</div> <!-- /.select-menu -->
+
+  <div class="breadcrumb">
+    <span class='repo-root js-repo-root'><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/sparkfun/Old-SparkFun-Eagle-Library" data-branch="master" data-direction="back" data-pjax="true" itemscope="url"><span itemprop="title">Old-SparkFun-Eagle-Library</span></a></span></span><span class="separator"> / </span><strong class="final-path">SparkFun.lbr</strong> <span class="js-zeroclipboard minibutton zeroclipboard-button" data-clipboard-text="SparkFun.lbr" data-copied-hint="copied!" title="copy to clipboard"><span class="octicon octicon-clippy"></span></span>
+  </div>
+</div>
+
+
+  <div class="commit file-history-tease">
+    <img alt="Jim Lindblom" class="main-avatar js-avatar" data-user="349425" height="24" src="https://0.gravatar.com/avatar/f2ed505f510e392f58811e4aa03e6fe0?d=https%3A%2F%2Fidenticons.github.com%2Fe3e8e308095c59733eb3e9900789225d.png&amp;r=x&amp;s=140" width="24" />
+    <span class="author"><a href="/jimblom" rel="author">jimblom</a></span>
+    <time class="js-relative-date" data-title-format="YYYY-MM-DD HH:mm:ss" datetime="2012-01-09T08:15:54-08:00" title="2012-01-09 08:15:54">January 09, 2012</time>
+    <div class="commit-title">
+        <a href="/sparkfun/Old-SparkFun-Eagle-Library/commit/23b6977a0b07d274fbb2082ddfddfb8cb310eef7" class="message" data-pjax="true" title="Added description comments to KIT packages.
+
+These are specialized packages, mostly used in our beginner soldering kits to help ensure that the part goes on the right side of the board.">Added description comments to KIT packages.</a>
+    </div>
+
+    <div class="participation">
+      <p class="quickstat"><a href="#blob_contributors_box" rel="facebox"><strong>7</strong> contributors</a></p>
+          <a class="avatar tooltipped downwards" aria-label="SFE-Chris" href="/sparkfun/Old-SparkFun-Eagle-Library/commits/master/SparkFun.lbr?author=SFE-Chris"><img alt="Chris Taylor" class=" js-avatar" data-user="371085" height="20" src="https://2.gravatar.com/avatar/3ca6387eca92c82e80bf5a9aaf204538?d=https%3A%2F%2Fidenticons.github.com%2Fcba8af211d70bf1426e7165145819782.png&amp;r=x&amp;s=140" width="20" /></a>
+    <a class="avatar tooltipped downwards" aria-label="jimblom" href="/sparkfun/Old-SparkFun-Eagle-Library/commits/master/SparkFun.lbr?author=jimblom"><img alt="Jim Lindblom" class=" js-avatar" data-user="349425" height="20" src="https://0.gravatar.com/avatar/f2ed505f510e392f58811e4aa03e6fe0?d=https%3A%2F%2Fidenticons.github.com%2Fe3e8e308095c59733eb3e9900789225d.png&amp;r=x&amp;s=140" width="20" /></a>
+    <a class="avatar tooltipped downwards" aria-label="mgrusin" href="/sparkfun/Old-SparkFun-Eagle-Library/commits/master/SparkFun.lbr?author=mgrusin"><img alt="Mike Grusin" class=" js-avatar" data-user="565139" height="20" src="https://0.gravatar.com/avatar/16916517f0cfc922456bcb65616b5761?d=https%3A%2F%2Fidenticons.github.com%2Fce3e59e6abea9bf155ad850ae7786682.png&amp;r=x&amp;s=140" width="20" /></a>
+    <a class="avatar tooltipped downwards" aria-label="ryowens84" href="/sparkfun/Old-SparkFun-Eagle-Library/commits/master/SparkFun.lbr?author=ryowens84"><img alt="Ryan Owens" class=" js-avatar" data-user="170635" height="20" src="https://1.gravatar.com/avatar/8e4405bec7e3185a46b92d6c38eab034?d=https%3A%2F%2Fidenticons.github.com%2F32eae8f1a06d7c29182b00126b683aef.png&amp;r=x&amp;s=140" width="20" /></a>
+    <a class="avatar tooltipped downwards" aria-label="nseidle" href="/sparkfun/Old-SparkFun-Eagle-Library/commits/master/SparkFun.lbr?author=nseidle"><img alt="Nathan Seidle" class=" js-avatar" data-user="117102" height="20" src="https://1.gravatar.com/avatar/1ff6ad39b8c242a14296a76845e116cd?d=https%3A%2F%2Fidenticons.github.com%2F77942544cc097e7bbae88ab0dc4df1ba.png&amp;r=x&amp;s=140" width="20" /></a>
+    <a class="avatar tooltipped downwards" aria-label="JoelEB" href="/sparkfun/Old-SparkFun-Eagle-Library/commits/master/SparkFun.lbr?author=JoelEB"><img alt="JoelEB" class=" js-avatar" data-user="1051208" height="20" src="https://0.gravatar.com/avatar/61c8a6b5036c1f43d002219c43596fe3?d=https%3A%2F%2Fidenticons.github.com%2F677f1e8e3c22112021e99f21f362b1a5.png&amp;r=x&amp;s=140" width="20" /></a>
+    <a class="avatar tooltipped downwards" aria-label="Hily" href="/sparkfun/Old-SparkFun-Eagle-Library/commits/master/SparkFun.lbr?author=Hily"><img alt="Hily" class=" js-avatar" data-user="390747" height="20" src="https://1.gravatar.com/avatar/85d2090a3a61cd263beeb661c1cdc64f?d=https%3A%2F%2Fidenticons.github.com%2Fbdeb2882e0d2ddff18ce4707ce00f115.png&amp;r=x&amp;s=140" width="20" /></a>
+
+
+    </div>
+    <div id="blob_contributors_box" style="display:none">
+      <h2 class="facebox-header">Users who have contributed to this file</h2>
+      <ul class="facebox-user-list">
+          <li class="facebox-user-list-item">
+            <img alt="Chris Taylor" class=" js-avatar" data-user="371085" height="24" src="https://2.gravatar.com/avatar/3ca6387eca92c82e80bf5a9aaf204538?d=https%3A%2F%2Fidenticons.github.com%2Fcba8af211d70bf1426e7165145819782.png&amp;r=x&amp;s=140" width="24" />
+            <a href="/SFE-Chris">SFE-Chris</a>
+          </li>
+          <li class="facebox-user-list-item">
+            <img alt="Jim Lindblom" class=" js-avatar" data-user="349425" height="24" src="https://0.gravatar.com/avatar/f2ed505f510e392f58811e4aa03e6fe0?d=https%3A%2F%2Fidenticons.github.com%2Fe3e8e308095c59733eb3e9900789225d.png&amp;r=x&amp;s=140" width="24" />
+            <a href="/jimblom">jimblom</a>
+          </li>
+          <li class="facebox-user-list-item">
+            <img alt="Mike Grusin" class=" js-avatar" data-user="565139" height="24" src="https://0.gravatar.com/avatar/16916517f0cfc922456bcb65616b5761?d=https%3A%2F%2Fidenticons.github.com%2Fce3e59e6abea9bf155ad850ae7786682.png&amp;r=x&amp;s=140" width="24" />
+            <a href="/mgrusin">mgrusin</a>
+          </li>
+          <li class="facebox-user-list-item">
+            <img alt="Ryan Owens" class=" js-avatar" data-user="170635" height="24" src="https://1.gravatar.com/avatar/8e4405bec7e3185a46b92d6c38eab034?d=https%3A%2F%2Fidenticons.github.com%2F32eae8f1a06d7c29182b00126b683aef.png&amp;r=x&amp;s=140" width="24" />
+            <a href="/ryowens84">ryowens84</a>
+          </li>
+          <li class="facebox-user-list-item">
+            <img alt="Nathan Seidle" class=" js-avatar" data-user="117102" height="24" src="https://1.gravatar.com/avatar/1ff6ad39b8c242a14296a76845e116cd?d=https%3A%2F%2Fidenticons.github.com%2F77942544cc097e7bbae88ab0dc4df1ba.png&amp;r=x&amp;s=140" width="24" />
+            <a href="/nseidle">nseidle</a>
+          </li>
+          <li class="facebox-user-list-item">
+            <img alt="JoelEB" class=" js-avatar" data-user="1051208" height="24" src="https://0.gravatar.com/avatar/61c8a6b5036c1f43d002219c43596fe3?d=https%3A%2F%2Fidenticons.github.com%2F677f1e8e3c22112021e99f21f362b1a5.png&amp;r=x&amp;s=140" width="24" />
+            <a href="/JoelEB">JoelEB</a>
+          </li>
+          <li class="facebox-user-list-item">
+            <img alt="Hily" class=" js-avatar" data-user="390747" height="24" src="https://1.gravatar.com/avatar/85d2090a3a61cd263beeb661c1cdc64f?d=https%3A%2F%2Fidenticons.github.com%2Fbdeb2882e0d2ddff18ce4707ce00f115.png&amp;r=x&amp;s=140" width="24" />
+            <a href="/Hily">Hily</a>
+          </li>
+      </ul>
+    </div>
+  </div>
+
+<div class="file-box">
+  <div class="file">
+    <div class="meta clearfix">
+      <div class="info file-name">
+        <span class="icon"><b class="octicon octicon-file-text"></b></span>
+        <span class="mode" title="File Mode">file</span>
+        <span class="meta-divider"></span>
+        <span>2087.502 kb</span>
+      </div>
+      <div class="actions">
+        <div class="button-group">
+            <a class="minibutton tooltipped leftwards"
+               href="http://windows.github.com" aria-label="Open this file in GitHub for Windows">
+                <span class="octicon octicon-device-desktop"></span> Open
+            </a>
+          <a href="/sparkfun/Old-SparkFun-Eagle-Library/raw/master/SparkFun.lbr" class="button minibutton " id="raw-url">Raw</a>
+          <a href="/sparkfun/Old-SparkFun-Eagle-Library/commits/master/SparkFun.lbr" class="button minibutton " rel="nofollow">History</a>
+        </div><!-- /.button-group -->
+          <a class="minibutton danger disabled empty-icon tooltipped leftwards" href="#"
+             aria-label="You must be signed in to make or propose changes">
+          Delete
+        </a>
+      </div><!-- /.actions -->
+    </div>
+        <div class="blob-wrapper data type-text js-blob-data">
+      <div class="image js-image">
+          <a href="/sparkfun/Old-SparkFun-Eagle-Library/blob/master/SparkFun.lbr?raw=true">View Raw</a>
+            <p>(Sorry about that, but we can't show files that are this big right now.)</p>
+      </div>
+  </div>
+
+  </div>
+</div>
+
+<a href="#jump-to-line" rel="facebox[.linejump]" data-hotkey="l" class="js-jump-to-line" style="display:none">Jump to Line</a>
+<div id="jump-to-line" style="display:none">
+  <form accept-charset="UTF-8" class="js-jump-to-line-form">
+    <input class="linejump-input js-jump-to-line-field" type="text" placeholder="Jump to line&hellip;" autofocus>
+    <button type="submit" class="button">Go</button>
+  </form>
+</div>
+
+        </div>
+
+      </div><!-- /.repo-container -->
+      <div class="modal-backdrop"></div>
+    </div><!-- /.container -->
+  </div><!-- /.site -->
+
+
+    </div><!-- /.wrapper -->
+
+      <div class="container">
+  <div class="site-footer">
+    <ul class="site-footer-links right">
+      <li><a href="https://status.github.com/">Status</a></li>
+      <li><a href="http://developer.github.com">API</a></li>
+      <li><a href="http://training.github.com">Training</a></li>
+      <li><a href="http://shop.github.com">Shop</a></li>
+      <li><a href="/blog">Blog</a></li>
+      <li><a href="/about">About</a></li>
+
+    </ul>
+
+    <a href="/">
+      <span class="mega-octicon octicon-mark-github" title="GitHub"></span>
+    </a>
+
+    <ul class="site-footer-links">
+      <li>&copy; 2014 <span title="0.02339s from github-fe119-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+        <li><a href="/site/terms">Terms</a></li>
+        <li><a href="/site/privacy">Privacy</a></li>
+        <li><a href="/security">Security</a></li>
+        <li><a href="/contact">Contact</a></li>
+    </ul>
+  </div><!-- /.site-footer -->
+</div><!-- /.container -->
+
+
+    <div class="fullscreen-overlay js-fullscreen-overlay" id="fullscreen_overlay">
+  <div class="fullscreen-container js-fullscreen-container">
+    <div class="textarea-wrap">
+      <textarea name="fullscreen-contents" id="fullscreen-contents" class="js-fullscreen-contents" placeholder="" data-suggester="fullscreen_suggester"></textarea>
+    </div>
+  </div>
+  <div class="fullscreen-sidebar">
+    <a href="#" class="exit-fullscreen js-exit-fullscreen tooltipped leftwards" aria-label="Exit Zen Mode">
+      <span class="mega-octicon octicon-screen-normal"></span>
+    </a>
+    <a href="#" class="theme-switcher js-theme-switcher tooltipped leftwards"
+      aria-label="Switch themes">
+      <span class="octicon octicon-color-mode"></span>
+    </a>
+  </div>
+</div>
+
+
+
+    <div id="ajax-error-message" class="flash flash-error">
+      <span class="octicon octicon-alert"></span>
+      <a href="#" class="octicon octicon-remove-close close js-ajax-error-dismiss"></a>
+      Something went wrong with that request. Please try again.
+    </div>
+
+  </body>
+</html>
+

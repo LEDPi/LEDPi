@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<layerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="9e3b19d1-8025-48b1-940e-faf16f6f6b7b" xmlns="http://schemas.microsoft.com/VisualStudio/TeamArchitect/LayerDesigner">
+  <comments>
+    <comment Id="c7e96ad5-dd18-4fe9-8e88-b7a7637ae624" name="Comment1">
+      <body>Raspberry Pi</body>
+    </comment>
+    <comment Id="41f8728d-755d-49d1-b719-4465304d5a14" name="Comment2">
+      <body>GModules</body>
+    </comment>
+    <comment Id="758782fe-dda1-4648-a6cb-58301795b118" name="Comment3">
+      <body>TEENSY 3.1</body>
+    </comment>
+    <comment Id="72899fe7-eb48-40ca-a8ff-dfad7b9d8cac" name="Comment4">
+      <body>Connect with wires</body>
+    </comment>
+  </comments>
+  <layers>
+    <layer Id="0ef5f34a-4e7d-4f60-b214-4b82e28a5861" name="Client (Android App)">
+      <dependencyToLayers>
+        <dependencyFromLayerToLayer Id="e3008950-a3c4-40fe-862c-80b3b06f0258" direction="Bidirectional">
+          <layerMoniker Id="28ceb8a4-9238-4528-94fa-300c6fe0c305" />
+        </dependencyFromLayerToLayer>
+      </dependencyToLayers>
+    </layer>
+    <layer Id="28ceb8a4-9238-4528-94fa-300c6fe0c305" name="COM" />
+    <layer Id="94c2baf9-91e2-4b50-9c7c-41dafa73031d" name="MONO">
+      <dependencyToLayers>
+        <dependencyFromLayerToLayer Id="c32d4c33-84ee-404b-a5af-917824cc37b7" direction="Bidirectional">
+          <layerMoniker Id="28ceb8a4-9238-4528-94fa-300c6fe0c305" />
+        </dependencyFromLayerToLayer>
+        <dependencyFromLayerToLayer Id="13f265b1-0d22-44ce-bd93-1296a9c10311" direction="Bidirectional">
+          <layerMoniker Id="42486267-9c6d-422e-b4ce-11f8e8c6540f" />
+        </dependencyFromLayerToLayer>
+      </dependencyToLayers>
+    </layer>
+    <layer Id="dddda9ae-2cf0-41ea-8f0a-36a3575f7e81" name="Stream">
+      <dependencyToLayers>
+        <dependencyFromLayerToLayer Id="2b588396-53a3-42de-a9e5-b8586ab49317" direction="Bidirectional">
+          <layerMoniker Id="28ceb8a4-9238-4528-94fa-300c6fe0c305" />
+        </dependencyFromLayerToLayer>
+      </dependencyToLayers>
+    </layer>
+    <layer Id="2d0d2f00-263e-46f5-afbd-2465791fba1d" name="Bars">
+      <dependencyToLayers>
+        <dependencyFromLayerToLayer Id="253b3019-aca1-417d-b8f2-dc8f5258836e" direction="Bidirectional">
+          <layerMoniker Id="28ceb8a4-9238-4528-94fa-300c6fe0c305" />
+        </dependencyFromLayerToLayer>
+      </dependencyToLayers>
+    </layer>
+    <layer Id="42486267-9c6d-422e-b4ce-11f8e8c6540f" name="GMM (Graphic Module Manager)">
+      <dependencyToLayers>
+        <dependencyFromLayerToLayer Id="ec45bb5c-0155-42df-b668-0f34a598e83f" direction="Bidirectional">
+          <layerMoniker Id="dddda9ae-2cf0-41ea-8f0a-36a3575f7e81" />
+        </dependencyFromLayerToLayer>
+        <dependencyFromLayerToLayer Id="0d7c6ee8-eed3-4cf2-9019-f68496891599" direction="Bidirectional">
+          <layerMoniker Id="2d0d2f00-263e-46f5-afbd-2465791fba1d" />
+        </dependencyFromLayerToLayer>
+        <dependencyFromLayerToLayer Id="cbf39f61-5cf6-4d8d-9d97-e23b8a59efb7" direction="Bidirectional">
+          <layerMoniker Id="28ceb8a4-9238-4528-94fa-300c6fe0c305" />
+        </dependencyFromLayerToLayer>
+      </dependencyToLayers>
+    </layer>
+    <layer Id="0466735e-7729-4150-a25e-5edb9c88106c" name="MUX">
+      <dependencyToLayers>
+        <dependencyFromLayerToLayer Id="53e5a989-a9c1-475b-b419-38bda71e45bb" direction="Bidirectional">
+          <layerMoniker Id="42486267-9c6d-422e-b4ce-11f8e8c6540f" />
+        </dependencyFromLayerToLayer>
+        <dependencyFromLayerToLayer Id="1d6feffe-a89e-4651-9af7-a7541eed37ca" direction="Bidirectional">
+          <layerMoniker Id="28ceb8a4-9238-4528-94fa-300c6fe0c305" />
+        </dependencyFromLayerToLayer>
+      </dependencyToLayers>
+    </layer>
+    <layer Id="f1501b17-9a76-4d08-a9ae-5382f32815ea" name="USB">
+      <dependencyToLayers>
+        <dependencyFromLayerToLayer Id="df26eb37-487e-436c-8321-a2b3f7cc17f8" direction="Bidirectional">
+          <layerMoniker Id="0466735e-7729-4150-a25e-5edb9c88106c" />
+        </dependencyFromLayerToLayer>
+      </dependencyToLayers>
+    </layer>
+    <layer Id="63edf9e2-f760-47d5-bfbe-f3ba5777a15b" name="MUX_DISP">
+      <dependencyToLayers>
+        <dependencyFromLayerToLayer Id="3008c6a7-b029-497c-9c17-ee10eba7a66f" direction="Bidirectional">
+          <layerMoniker Id="f1501b17-9a76-4d08-a9ae-5382f32815ea" />
+        </dependencyFromLayerToLayer>
+        <dependencyFromLayerToLayer Id="9fc6e1a4-9471-47eb-a72f-1f8df651663e" direction="Bidirectional">
+          <layerMoniker Id="2ed29ff4-0feb-4419-9675-809522f20566" />
+        </dependencyFromLayerToLayer>
+      </dependencyToLayers>
+      <childLayers>
+        <layer Id="5345efb6-e87f-4f0d-ae89-2d4b4a7830e4" name="SHIFT REGISTER" />
+      </childLayers>
+    </layer>
+    <layer Id="2ed29ff4-0feb-4419-9675-809522f20566" name="WALL" />
+  </layers>
+</layerModel>

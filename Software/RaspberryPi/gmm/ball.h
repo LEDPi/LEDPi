@@ -1,0 +1,54 @@
+#ifndef _BALL_H_
+#define _BALL_H_
+
+///////////////////////////////////////////////////////////////////////////////
+// FILE: gradient 
+// DESC: The module makes a color gradient over the whole wall.
+//	 It is possible to make this gradient with different start forms  
+///////////////////////////////////////////////////////////////////////////////
+#include <stdbool.h>
+#include <stdint.h>
+#include <pthread.h>
+
+#include "mux/mux.h"
+#include "mux/mux_drawing.h"
+#include "gui/logger.h"
+#include "module_id.h"
+#include "net/net.h"
+
+#define BALL_VERSION 0x0102
+
+#define BALL_SLEEP	5e4
+
+#define BALL_RND	( (double) rand() / (double) RAND_MAX )
+
+typedef double ball_var_t;
+
+typedef struct
+{
+	ball_var_t	x;
+	ball_var_t	y;
+	ball_var_t	dx;
+	ball_var_t	dy;
+	ball_var_t	valx[MUX_WIDTH];
+	ball_var_t	valy[MUX_HEIGHT];	
+
+} ball_t, *p_ball_t;
+
+///////////////////////////////////////////////////////////////////////////////
+// Creates a new thread and starts to control the led wall 
+///////////////////////////////////////////////////////////////////////////////
+bool ball_init();
+
+///////////////////////////////////////////////////////////////////////////////
+// The message handler function 
+///////////////////////////////////////////////////////////////////////////////
+void MsgBalls_Change(void *sender, uint16_t fc, uint16_t len, uint8_t data[]);
+
+
+///////////////////////////////////////////////////////////////////////////////
+// Stop the thread and clear resources
+///////////////////////////////////////////////////////////////////////////////
+void ball_deinit();
+
+#endif // _BALL_H_

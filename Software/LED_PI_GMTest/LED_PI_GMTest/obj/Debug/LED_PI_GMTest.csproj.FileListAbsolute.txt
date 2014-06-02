@@ -1,0 +1,18 @@
+c:\users\aiko\documents\visual studio 2012\Projects\LED_PI_GMTest\LED_PI_GMTest\bin\Debug\LED_PI_GMTest.exe.config
+c:\users\aiko\documents\visual studio 2012\Projects\LED_PI_GMTest\LED_PI_GMTest\obj\Debug\LED_PI_GMTest.csprojResolveAssemblyReference.cache
+c:\users\aiko\documents\visual studio 2012\Projects\LED_PI_GMTest\LED_PI_GMTest\obj\Debug\LED_PI_GMTest.WndMain.resources
+c:\users\aiko\documents\visual studio 2012\Projects\LED_PI_GMTest\LED_PI_GMTest\obj\Debug\LED_PI_GMTest.Properties.Resources.resources
+c:\users\aiko\documents\visual studio 2012\Projects\LED_PI_GMTest\LED_PI_GMTest\obj\Debug\LED_PI_GMTest.csproj.GenerateResource.Cache
+c:\users\aiko\documents\visual studio 2012\Projects\LED_PI_GMTest\LED_PI_GMTest\bin\Debug\LED_PI_GMTest.exe
+c:\users\aiko\documents\visual studio 2012\Projects\LED_PI_GMTest\LED_PI_GMTest\bin\Debug\LED_PI_GMTest.pdb
+c:\users\aiko\documents\visual studio 2012\Projects\LED_PI_GMTest\LED_PI_GMTest\obj\Debug\LED_PI_GMTest.exe
+c:\users\aiko\documents\visual studio 2012\Projects\LED_PI_GMTest\LED_PI_GMTest\obj\Debug\LED_PI_GMTest.pdb
+C:\Users\Aiko\Dropbox\Studiprojekt\Software\LED_PI_GMTest\LED_PI_GMTest\bin\Debug\LED_PI_GMTest.exe.config
+C:\Users\Aiko\Dropbox\Studiprojekt\Software\LED_PI_GMTest\LED_PI_GMTest\obj\Debug\LED_PI_GMTest.exe
+C:\Users\Aiko\Dropbox\Studiprojekt\Software\LED_PI_GMTest\LED_PI_GMTest\obj\Debug\LED_PI_GMTest.pdb
+C:\Users\Aiko\Dropbox\Studiprojekt\Software\LED_PI_GMTest\LED_PI_GMTest\bin\Debug\LED_PI_GMTest.exe
+C:\Users\Aiko\Dropbox\Studiprojekt\Software\LED_PI_GMTest\LED_PI_GMTest\bin\Debug\LED_PI_GMTest.pdb
+C:\Users\Aiko\Dropbox\Studiprojekt\Software\LED_PI_GMTest\LED_PI_GMTest\obj\Debug\LED_PI_GMTest.csprojResolveAssemblyReference.cache
+C:\Users\Aiko\Dropbox\Studiprojekt\Software\LED_PI_GMTest\LED_PI_GMTest\obj\Debug\LED_PI_GMTest.WndMain.resources
+C:\Users\Aiko\Dropbox\Studiprojekt\Software\LED_PI_GMTest\LED_PI_GMTest\obj\Debug\LED_PI_GMTest.Properties.Resources.resources
+C:\Users\Aiko\Dropbox\Studiprojekt\Software\LED_PI_GMTest\LED_PI_GMTest\obj\Debug\LED_PI_GMTest.csproj.GenerateResource.Cache

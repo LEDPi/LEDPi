@@ -1,0 +1,25 @@
+LED PI Logfile
+
+	Kai Gemmrich
+	Sebastian Weiss
+	Aiko Isselhard
+
+Timestamp: 14:06:25 31.03.2014
+
+VERSIN PI: 00.02
+	Version NET: 00.02
+	Version MUX: 01.02
+	Version GUI: 00.02
+
+Log entries:
+   0.0384 Debug  : Emulating hardware. Start in desktop mode
+   0.0385 Debug  : Loaded Net Module
+   0.0473 Debug  : Open Gl Window created
+   0.0473 Debug  : Open Gl Initialized
+   0.0473 Debug  : Loaded Mux Module
+   0.0474 Debug  : Starting threads ...
+   0.0474 Debug  : Start receiving thread
+   0.0474 Debug  : Start jobstack thread
+   0.0475 Debug  : Jobstack function is running
+  16.0789 Debug  : plasma module was activated
+  31.0269 Debug  : photo module was activated

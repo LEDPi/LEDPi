@@ -1,0 +1,9 @@
+c:\users\basti\documents\visual studio 2012\Projects\JPEG_TO_LED\JPEG_TO_LED\bin\Debug\JPEG_TO_LED.exe.config
+c:\users\basti\documents\visual studio 2012\Projects\JPEG_TO_LED\JPEG_TO_LED\bin\Debug\JPEG_TO_LED.exe
+c:\users\basti\documents\visual studio 2012\Projects\JPEG_TO_LED\JPEG_TO_LED\bin\Debug\JPEG_TO_LED.pdb
+c:\users\basti\documents\visual studio 2012\Projects\JPEG_TO_LED\JPEG_TO_LED\obj\Debug\JPEG_TO_LED.csprojResolveAssemblyReference.cache
+c:\users\basti\documents\visual studio 2012\Projects\JPEG_TO_LED\JPEG_TO_LED\obj\Debug\JPEG_TO_LED.Form1.resources
+c:\users\basti\documents\visual studio 2012\Projects\JPEG_TO_LED\JPEG_TO_LED\obj\Debug\JPEG_TO_LED.Properties.Resources.resources
+c:\users\basti\documents\visual studio 2012\Projects\JPEG_TO_LED\JPEG_TO_LED\obj\Debug\JPEG_TO_LED.csproj.GenerateResource.Cache
+c:\users\basti\documents\visual studio 2012\Projects\JPEG_TO_LED\JPEG_TO_LED\obj\Debug\JPEG_TO_LED.exe
+c:\users\basti\documents\visual studio 2012\Projects\JPEG_TO_LED\JPEG_TO_LED\obj\Debug\JPEG_TO_LED.pdb

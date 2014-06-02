@@ -1,0 +1,9 @@
+C:\Projects\CommunicationTest\Invoke\bin\Debug\Invoke.exe.config
+C:\Projects\CommunicationTest\Invoke\bin\Debug\Invoke.exe
+C:\Projects\CommunicationTest\Invoke\bin\Debug\Invoke.pdb
+C:\Projects\CommunicationTest\Invoke\obj\Debug\Invoke.csprojResolveAssemblyReference.cache
+C:\Projects\CommunicationTest\Invoke\obj\Debug\Invoke.ThreadEx.resources
+C:\Projects\CommunicationTest\Invoke\obj\Debug\Invoke.Properties.Resources.resources
+C:\Projects\CommunicationTest\Invoke\obj\Debug\Invoke.csproj.GenerateResource.Cache
+C:\Projects\CommunicationTest\Invoke\obj\Debug\Invoke.exe
+C:\Projects\CommunicationTest\Invoke\obj\Debug\Invoke.pdb

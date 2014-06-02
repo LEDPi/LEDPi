@@ -1,0 +1,2 @@
+Problem: Boot into Save Mode Message: "Greetings from standalone Raspberry Pi" add >>avoid_safe_mode=1<< in config.txt
+Solution "http://www.element14.com/community/thread/24881"

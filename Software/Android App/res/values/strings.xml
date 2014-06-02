@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LEDPi</string>
+    <string name="title_activity_main">Menü</string>
+    <string name="activity_main">LEDPi</string>
+    <string name="Item1">Mono</string>
+    <string name="Item2">Item2</string>
+    <string name="Item3">Item3</string>
+    <string name="Item4">Item4</string>
+    <string name="title_activity_mono">Mono</string>
+    <string name="blink">Strobe</string>
+    <string name="title_activity_no_connection">LEDPI</string>
+    <string name="error_handshake">Handshake error !</string>
+    <string name="sucess_handshake">Handshake sucess !</string>
+    <string name="title_activity_settings" />
+    <string name="version">0.15</string>
+    <string name="label_versionname">Version Name</string>
+    <string name="ontime">On Time</string>
+    <string name="offtime">Off Time</string>
+    <string name="title_Activity_colorpicker">Pick a Color</string>
+    <string name="title_activity_versions">VersionsActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="brightness">Birghtness</string>
+    <string name="activity_gradient">Gradient</string>
+    <string name="title_activity_snake">Snake</string>
+    <string name="title_activity_snake_map">Choose a Map</string>
+    <string name="text_slide_to_move">(slide to move)</string>
+    <string name="title_activity_photo">Choose a Photo</string>
+    <string name="title_activity_ball">Ball</string>
+    <string name="text_balls_BallCount">Balls</string>
+    <string name="text_balls_speed">Speed</string>
+    <string name="text_balls_red">Red</string>
+    <string name="text_balls_green">Green</string>
+    <string name="text_balls_blue">Blue</string>
+    <string name="text_balls_size">Size</string>
+    <string name="text_balls_glow">Glow</string>
+    <string name="text_balls_random">Random</string>
+    <string name="text_balls_randomspeed">Random Speed</string>
+    <string name="text_balls_invert">Invert</string>
+    <string name="title_activity_plasma">Plasma</string>
+    <string name="text_plasma_Invert">Invert</string>
+    <string name="text_plasma_concentricscale">Concentric Scale</string>
+    <string name="text_plasma_concentricspeed">Concentric Speed</string>
+    <string name="text_plasma_period">Period</string>
+    <string name="text_plasma_speed">Speed</string>
+    <string name="text_plasma_method">Method</string>
+    <string name="text_plasma_color">Color</string>
+    <string-array name="string_array_plasma_method">
+        <item >Add</item>
+        <item >Multiply</item>
+        <item >Subtract</item>
+        <item >Add Flat</item>
+        <item >Divide</item>
+    </string-array>
+    <string-array name="string_array_plasma_color">
+        <item >RedGreen</item>
+        <item >GreenBlue</item>
+        <item >RGB</item>
+        <item >Grey</item>
+    </string-array>
+    <string name="text_plasma_method_prompt">Choose a Method</string>
+    <string name="text_plasma_color_prompt">Choose a Color</string>
+    <string name="text_balls_standard">Standard</string>
+    <string name="text_plasma_standard">Standard</string>
+
+</resources>

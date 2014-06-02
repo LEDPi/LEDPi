@@ -1,0 +1,2 @@
+gcc multiple_quads.c -lglut -lGL -lGLU -lGLEW -o prog
+

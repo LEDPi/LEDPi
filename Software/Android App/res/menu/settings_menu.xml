@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+<item android:id="@+id/settings"
+android:title="Settings" />
+
+<item android:id="@+id/handshake" 
+    android:title="Handshake">
+    
+</item>
+
+<item android:id="@+id/test" 
+    android:title="test"></item>
+
+<item android:id="@+id/versions"
+android:title="Versions" />
+
+<item android:id="@+id/deaktivate"
+android:title="Deaktivate" />
+
+
+
+</menu>
